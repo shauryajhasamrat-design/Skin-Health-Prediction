@@ -1,1 +1,1 @@
-# Skin-Health-Prediction-Model
+# AI-Powered-Skin-Condition-Detection-System
